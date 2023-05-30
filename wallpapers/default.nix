@@ -1,3 +1,3 @@
 {
-  blue-layers = import ./blue-layers.nix;
+  blue-layers = import ./blue-layers;
 }
